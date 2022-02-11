@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VenusLion
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning python and Ethical Hacking
+- 📫 How to reach me Discord - VENU$#2117
